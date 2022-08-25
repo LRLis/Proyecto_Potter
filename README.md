@@ -5,16 +5,16 @@
 Mi trabajo es para que los alumnos puedan sacar su promedio de calificación, siendo posible sacar calificaciones generales de toda la materia, también poder poner las calificaciones que ya tienes y te saca un promedio viendo si sacas un  mínimo ce 50 en el resto de las calificaciones y otro con 100, y se podrá ver cuánto se saca de porcentaje de una actividad al tener alguna calificación, siento que es algo interesante debido a que la mayoría de los alumnos sin importar su escuela o grado se llegan a interesar en si lograran pasar sus materias o si les ira bien en el promedio. 
 
 
-### Algoritmo que describa el proyecto
+### Seudocodigo del proyecto
 
 
 Preguntar qué tipo de promedio se ocupa 
 
 
-Para toda una materia – Predecir promedio – Sacar calificación de un porcentaje 
+Promedio calificación final – Predecir promedio – Sacar calificación de un porcentaje 
 
 
-- Para toda la materia
+- Promedio calificaión final
 
 
 Preguntar cantidad de materias (se saca la cantidad por la que se divide y la cantidad de materias a sumar)
