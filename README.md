@@ -1,21 +1,27 @@
 # Proyecto_promedios
 ### Descripción de proyecto y porque creo que ees importante
 
+
 Mi trabajo es para que los alumnos puedan sacar su promedio de calificación, siendo posible sacar calificaciones generales de toda la materia, también poder poner las calificaciones que ya tienes y te saca un promedio viendo si sacas un  mínimo ce 50 en el resto de las calificaciones y otro con 100, y se podrá ver cuánto se saca de porcentaje de una actividad al tener alguna calificación, siento que es algo interesante debido a que la mayoría de los alumnos sin importar su escuela o grado se llegan a interesar en si lograran pasar sus materias o si les ira bien en el promedio. 
 
-### Algoritmo que desccriba el proyecto
+
+### Algoritmo que describa el proyecto
+
 
 Preguntar qué tipo de promedio se ocupa 
 
+
 Para toda una materia – Predecir promedio – Sacar calificación de un porcentaje 
+
 
 - Para toda la materia
 
-Preguntar cantidad de materias  (se saca la cantidad por la que se divide y la cantidad de materias a sumar)
+
+Preguntar cantidad de materias (se saca la cantidad por la que se divide y la cantidad de materias a sumar)
    
-Empezar a pedir la calificaciones
+Empezar a pedir las calificaciones
   
-Se suman las calificaiones 
+Se suman las calificaciones 
   
 La suma de calificaciones se divide por la cantidad de materias
   
@@ -26,24 +32,27 @@ Mostrar la calificación al usuario
   
 Preguntar la cantidad de materias 
   
-Preguntar cuantas calificaciones se tienen del total  (se obtiene la cantidad de materias que faltan)
+Preguntar cuántas calificaciones se tienen del total (se obtiene la cantidad de materias que faltan)
     
 Empezar a pedir calificaciones que se tienen
     
-Para calificaión minima se agrega un 50 por cada materia que falta del total 
-Para calificaión maxima se agrega un 100 por cada materia que falta del total 
+Para calificación mínima se agrega un 50 por cada materia que falta del total 
+Para calificación máxima se agrega un 100 por cada materia que falta del total 
     
 Ambos casos se suman y se dividen en el total de materias 
    
-Se muestran calificación minima y maxima posibles al usuario
+Se muestran calificación mínima y máxima posibles al usuario
     
     
    -	Sacar calificación de un porcentaje
    
 Preguntar el porcentaje de valor de materia (saca variable para regla de tres)
 
-Preguntar calificaión obtenida (saca valor para regla de tres)
 
-Se hace la regla de tres multiplicanndo la calificación obtenida por el porcentaje de valor de la actividad y se divide entre 100 0(se obtiene la calificaión)
+Preguntar calificación obtenida (saca valor para regla de tres)
 
-Mostrar calificaión al usuario 
+
+Se hace la regla de tres multiplicando la calificación obtenida por el porcentaje de valor de la actividad y se divide entre 100 0(se obtiene la calificación)
+
+
+Mostrar calificación al usuario 
