@@ -15,7 +15,7 @@ print("El porcentaje obtenido es:", cp)
 print("=================================================================")
 
 print("Promedio de calificaiones")
-print("Se detiene al colocar un número neativo, y no se toma en cuenta para el promedio")
+print("Se detiene al colocar un número negativo, y no se toma en cuenta para el promedio")
 n=0
 c=0
 sum=0
