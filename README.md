@@ -56,3 +56,15 @@ Se hace la regla de tres multiplicando la calificación obtenida por el porcenta
 
 
 Mostrar calificación al usuario 
+
+
+## Correcciones 
+
+Sub-competencia:
+Separa el código en funciones pequeñas reusables, haciendo uso correcto de paso por parametros y return
+Error original:
+No agrege funcione sa mi proyecto 
+Cambio realizado: 
+No logre realizar un cambio, ya que ahora que tengo el proyecto finalizado y me di cuanta que no puedo agregar funciones 
+Líneas de código donde se ve la corrección:
+N/A
