@@ -4,7 +4,6 @@ while True:
     print("1)Obtener porcentaje sacado en una actividad")
     print("2)Obtener promedio de calificaciones")
     print("3)Predecir promedio sacando 50 y 100 en actividades faltantes")
-    print("4)Apagar calculadora")
     op=int(input())
 
     if op == 1:
@@ -76,10 +75,7 @@ while True:
         
         print("El promedio sacando 50 en las calificaciones faltantes: {}".format(promedio1))
         print("El promedio sacando 100 en las calificaiones faltantes: {}".format(promedio2))
-
-    if op == 4:
-        break
     
-    if op > 4:
+    if op > 3:
         print("No existe esta opción")
     
